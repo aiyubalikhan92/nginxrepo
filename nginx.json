@@ -2,7 +2,7 @@
     "family": "nginx",
     "containerDefinitions": [
         {
-            "image": "$IMAGE",
+            "image": "208050583360.dkr.ecr.us-east-1.amazonaws.com/nodepaa:281",
             "name": "new-aiyuban",
             "cpu": 10,
             "memory": 256,
