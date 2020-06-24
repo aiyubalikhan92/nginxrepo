@@ -27,6 +27,7 @@
   ],
   "volumes": [],
   "networkMode": "bridge",
-  "placementConstraints": []
+  "placementConstraints": [],
+  "family": "nginx"
  
 }
