@@ -1,5 +1,5 @@
-FROM sagebind/base:latest
-MAINTAINER Stephen Coakley <me@stephencoakley.com>
+FROM nginx
+
 
 RUN apk --no-cache add nginx && \
     addgroup nginx srv && \
