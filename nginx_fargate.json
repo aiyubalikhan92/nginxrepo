@@ -27,6 +27,6 @@
   ],
   "volumes": [],
   "networkMode": "bridge",
-  "placementConstraints": [],
+  "placementConstraints": []
  
 }
