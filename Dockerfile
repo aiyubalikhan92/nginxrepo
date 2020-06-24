@@ -1,4 +1,4 @@
-FROM nginx
+FROM sagebind/nginx
 
 
 RUN apk --no-cache add nginx && \
